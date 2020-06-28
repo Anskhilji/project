@@ -1,3 +1,0 @@
-line add to file2.txt
-line add to file2.txt
-line add to file2.txt
